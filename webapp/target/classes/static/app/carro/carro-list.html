@@ -1,0 +1,14 @@
+<div class="container" ng-controller="CarroController">
+  <div ng-init="load()">
+    <h3>Carros</h3>
+    <ul class="list-group">
+      <li class="list-group-item" ng-repeat="carro in carros">
+        <h4>{{carro.modelo}}</h4>
+        <ul class="list-group">
+          Cilindradas<li class="list-group-item">{{carro.cilindradas}}</li>
+          Cor:<li class="list-group-item">{{carro.cor}}</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
