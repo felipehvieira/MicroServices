@@ -1,5 +1,1 @@
-Desenvolvimento de um projeto com Microservices, para avaliação de pós-graduação.
-
-Desenvolvedores:
-Felipe Henriques Alves Vieira
-Phellipe Eduardo Lins
+Desenvolvimento de uma aplicação em microserviços simples utilizando algumas ferramentas do Netflix OSS(Spring Cloud)
